@@ -1,0 +1,5 @@
+:JSLint	jslint.txt	/*:JSLint*
+LICENSE	jslint.txt	/*LICENSE*
+jslint	jslint.txt	/*jslint*
+jslint-author	jslint.txt	/*jslint-author*
+jslint.vim	jslint.txt	/*jslint.vim*
